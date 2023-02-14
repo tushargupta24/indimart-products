@@ -9,8 +9,7 @@
       "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
       
       "rating": {
-        "rate": 3.9,
-        "count": 120
+        "rate": 3.9
       }
     },
     {
@@ -22,8 +21,7 @@
       "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
       
       "rating": {
-        "rate": 4.1,
-        "count": 259
+        "rate": 4.1
       }
     },
     {
@@ -35,8 +33,7 @@
       "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
       
       "rating": {
-        "rate": 4.7,
-        "count": 500
+        "rate": 4.7
       }
     },
     {
@@ -48,8 +45,7 @@
       "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
       
       "rating": {
-        "rate": 2.1,
-        "count": 430
+        "rate": 2.1
       }
     },
     {
@@ -61,8 +57,7 @@
       "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
       
       "rating": {
-        "rate": 4.6,
-        "count": 400
+        "rate": 4.6
       }
     },
     {
@@ -74,8 +69,7 @@
       "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
       
       "rating": {
-        "rate": 3.9,
-        "count": 70
+        "rate": 3.9
       }
     },
     {
@@ -87,8 +81,7 @@
       "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
       
       "rating": {
-        "rate": 3,
-        "count": 400
+        "rate": 3
       }
     },
     {
@@ -100,8 +93,7 @@
       "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
       
       "rating": {
-        "rate": 1.9,
-        "count": 100
+        "rate": 1.9
       }
     },
     {
@@ -113,8 +105,7 @@
       "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
       
       "rating": {
-        "rate": 3.3,
-        "count": 203
+        "rate": 3.3
       }
     },
     {
@@ -126,8 +117,7 @@
       "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
       
       "rating": {
-        "rate": 2.9,
-        "count": 470
+        "rate": 2.9
       }
     },
     {
@@ -139,8 +129,7 @@
       "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
       
       "rating": {
-        "rate": 4.8,
-        "count": 319
+        "rate": 4.8
       }
     },
     {
@@ -152,8 +141,7 @@
       "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
       
       "rating": {
-        "rate": 4.8,
-        "count": 400
+        "rate": 4.8
       }
     },
     {
@@ -165,8 +153,7 @@
       "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
       
       "rating": {
-        "rate": 2.9,
-        "count": 250
+        "rate": 2.9
       }
     },
     {
@@ -178,8 +165,7 @@
       "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
       
       "rating": {
-        "rate": 2.2,
-        "count": 140
+        "rate": 2.2
       }
     },
     {
@@ -191,8 +177,7 @@
       "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
       
       "rating": {
-        "rate": 2.6,
-        "count": 235
+        "rate": 2.6
       }
     },
     {
@@ -204,8 +189,7 @@
       "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
       
       "rating": {
-        "rate": 2.9,
-        "count": 340
+        "rate": 2.9
       }
     },
     {
@@ -217,8 +201,7 @@
       "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
       
       "rating": {
-        "rate": 3.8,
-        "count": 679
+        "rate": 3.8
       }
     },
     {
@@ -230,8 +213,7 @@
       "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
       
       "rating": {
-        "rate": 4.7,
-        "count": 130
+        "rate": 4.7
       }
     },
     {
@@ -243,8 +225,7 @@
       "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
       
       "rating": {
-        "rate": 4.5,
-        "count": 146
+        "rate": 4.5
       }
     },
     {
@@ -256,8 +237,7 @@
       "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
       
       "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
     },
     {
@@ -269,8 +249,7 @@
       "images": "https://i.dummyjson.com/data/products/1/1.jpg",
       
       "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
     },
     {
@@ -282,8 +261,7 @@
       "images": "https://i.dummyjson.com/data/products/2/1.jpg",
       
         "rating": {
-          "rate": 3.6,
-          "count": 145
+          "rate": 3.6
         }
         
     },
@@ -297,8 +275,7 @@
         "https://i.dummyjson.com/data/products/3/1.jpg",
         
         "rating": {
-          "rate": 3.6,
-          "count": 145
+          "rate": 3.6
         }
      
     },
@@ -314,8 +291,7 @@
         "https://i.dummyjson.com/data/products/4/1.jpg",
         
         "rating": {
-          "rate": 3.6,
-          "count": 145
+          "rate": 3.6
         }
        
     },
@@ -328,8 +304,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/5/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -343,8 +318,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/6/1.png",
         "rating": {
-          "rate": 3.6,
-          "count": 145
+          "rate": 3.6
         }
         
         
@@ -359,8 +333,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/7/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
       
@@ -374,8 +347,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/8/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -389,8 +361,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/9/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -404,8 +375,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/10/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
       
@@ -419,8 +389,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/11/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -434,8 +403,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/12/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
       
@@ -449,8 +417,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/13/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -464,8 +431,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/14/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -479,8 +445,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/15/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
     
@@ -494,8 +459,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/16/1.png",
         "rating": {
-          "rate": 3.6,
-          "count": 145
+          "rate": 3.6
         }
         
        
@@ -509,8 +473,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/17/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
       
@@ -524,8 +487,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/18/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -539,8 +501,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/19/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
       
@@ -554,8 +515,7 @@
       "images":
         "https://i.dummyjson.com/data/products/20/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
         
@@ -569,8 +529,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/21/1.png",
         "rating": {
-          "rate": 3.6,
-          "count": 145
+          "rate": 3.6
         }
         
         
@@ -585,11 +544,8 @@
       "images": 
         "https://i.dummyjson.com/data/products/22/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
-      }
-        
-      
+        "rate": 3.6
+      } 
     },
     {
       "id": 23,
@@ -600,8 +556,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/23/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
       
@@ -615,8 +570,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/24/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -630,8 +584,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/25/1.png",
         "rating": {
-          "rate": 3.6,
-          "count": 145
+          "rate": 3.6
         }
         
         
@@ -646,8 +599,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/26/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
      
@@ -676,8 +628,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/28/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
        
@@ -691,8 +642,7 @@
       "images":
         "https://i.dummyjson.com/data/products/29/1.jpg",
          "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
         
     },
@@ -705,8 +655,7 @@
       "images": 
         "https://i.dummyjson.com/data/products/30/1.jpg",
       "rating": {
-        "rate": 3.6,
-        "count": 145
+        "rate": 3.6
       }
     }
   ]
